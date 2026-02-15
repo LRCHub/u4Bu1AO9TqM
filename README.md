@@ -1,0 +1,58 @@
+# YOUNG POSSE – FREESTYLE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+YOUNG POSSE back in the house
+다시 돌아왔지 Straight outta town
+Clap your hands everybody now
+Yo DJ, spin that Muh
+머리 어깨 무릎 발
+걸음 걸이까지 FREESTYLE
+머리 어깨 무릎 발
+기분 내키는 대로 FREESTYLE
+YOUNG freakin' POSSE back in the house
+다시 돌아왔지 Straight outta town
+Clap your hands everybody now
+Yo 기분 내키는 대로 FREESTYLE
+규칙 따위는 몰라 난
+쿵치딱 리듬 위의 악당
+이래라 저래라 don't waste your time
+난 엄마 말도 안 들어 nonstop (Mama)
+껄렁대네 one, two step
+어머 쟤네 who dat? 땅에 닿겠어 턱
+헐렁해 내 Black New Pants
+XXL에 입엔 Tooth Gem I'm the one
+(So what!) 내 맘대로 할 건데
+(What!) 절대로 척은 못해
+(So what!) I said I'm on my way
+기분 내키는 대로 FREESTYLE
+머리 어깨 무릎 발
+걸음 걸이까지 FREESTYLE
+머리 어깨 무릎 발
+기분 내키는 대로 FREESTYLE
+YOUNG freakin' POSSE back in the house
+다시 돌아왔지 Straight outta town
+Clap your hands everybody now
+Yo DJ, spin that YPS Shhhhh
+머리 어깨 무릎 발 무릎 발
+오늘 기분대로 칠해 이건 Art
+1 2 to the 3 4 5 (6)
+하나부터 열까지 내 취향대로 mix it
+미스매치 아냐 이건 mix match지
+This That 고민 없어 made it look easy
+왜 비슷해 정답이라도 있다는 듯이
+Chit Chat 떠들어도 신경 안 쓰지
+I’m the one yeah I’m the one
+I’m the only one 유일무이한 PUNK
+Back it off 모두 Back it off
+설치다 다쳐 그냥 나 좀 냅둬
+(So what?) 내 맘대로 할 건데
+(What?) 절대로 척은 못해
+(So what?) I said I'm on my way
+기분 내키는 대로 FREESTYLE
+머리 어깨 무릎 발
+걸음 걸이까지 FREESTYLE
+머리 어깨 무릎 발
+기분 내키는 대로 FREESTYLE!
+```
