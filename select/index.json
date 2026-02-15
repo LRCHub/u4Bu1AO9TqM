@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "FREESTYLE",
+  "base_artist": "YOUNG POSSE",
+  "createdAt": "2026-02-15T15:57:12.919160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "30 for 30 Freestyle",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_30_for_30_Freestyle_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake feat. Giveon",
+      "has_synced": true,
+      "path": "select/02_Chicago_Freestyle_(feat._Giveon)_Drake_feat._Giveon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chicago Freestyle (feat. Giveon)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Chicago_Freestyle_(feat._Giveon)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jodeci Freestyle (feat. J. Cole)",
+      "artist": "Drake feat. J. Cole",
+      "has_synced": true,
+      "path": "select/04_Jodeci_Freestyle_(feat._J._Cole)_Drake_feat._J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jodeci Freestyle (feat. J. Cole)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_Jodeci_Freestyle_(feat._J._Cole)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Freestyle",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/06_Freestyle_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Freestyle Interlude",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/07_Freestyle_Interlude_Fugees.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Word of Mouf (Freestyle)",
+      "artist": "Ludacris feat. 4-IZE",
+      "has_synced": true,
+      "path": "select/08_Word_of_Mouf_(Freestyle)_Ludacris_feat._4-IZE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Word of Mouf (Freestyle) (feat. 4-Ize)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/09_Word_of_Mouf_(Freestyle)_(feat._4-Ize)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cocaine Freestyle",
+      "artist": "Yung Mal",
+      "has_synced": false,
+      "path": "select/10_Cocaine_Freestyle_Yung_Mal.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tangerine Warrior (Freestyle)",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/11_Tangerine_Warrior_(Freestyle)_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tangerine Warrior (Freestyle)",
+      "artist": "Jonatan127Leandoer",
+      "has_synced": false,
+      "path": "select/12_Tangerine_Warrior_(Freestyle)_Jonatan127Leandoer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DN Freestyle",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/13_DN_Freestyle_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Orleans Based Freestyle",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/14_New_Orleans_Based_Freestyle_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everytime You Touch Me (Freestyle mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/15_Everytime_You_Touch_Me_(Freestyle_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Running Up Freestyle",
+      "artist": "Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/16_Running_Up_Freestyle_Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DEAD OR ALIVE FREESTYLE",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/17_DEAD_OR_ALIVE_FREESTYLE_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Life Freestyle",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/18_Good_Life_Freestyle_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Freestyle 2",
+      "artist": "Ken Car$on",
+      "has_synced": false,
+      "path": "select/19_Freestyle_2_Ken_Car$on.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "How You Feel? (Freestyle) [feat. Lil Yachty & Ski Mask the Slump God]",
+      "artist": "DJ Scheme feat. Danny Towers, Lil Yachty & Ski Mask The Slump God",
+      "has_synced": true,
+      "path": "select/20_How_You_Feel__(Freestyle)_[feat._Lil_Yachty_&_Ski_Mask_the_Slump_God]_DJ_Scheme_feat._Danny_Towers,_Lil_Yachty_&_Ski_Mask_The_Slump_God.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FREESTYLE",
+      "artist": "YOUNG POSSE",
+      "has_synced": false,
+      "path": "select/pl_01_FREESTYLE_YOUNG_POSSE.txt"
+    }
+  ]
+}
